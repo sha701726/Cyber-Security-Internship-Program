@@ -1,4 +1,4 @@
-Rreport of the task 1
+Report of the task 1
 
 # Nmap Scan Report
 
