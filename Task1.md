@@ -1,6 +1,6 @@
-Report of the task 1
+## Report of the Task 1
 
-# Nmap Scan Report
+## Nmap Scan Report
 
 **Scan initiated:** Wed Sep 24 01:52:03 2025  
 **Command used:**  
